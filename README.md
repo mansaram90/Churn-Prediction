@@ -4,6 +4,8 @@
 This project predicts whether a telecom customer is likely to churn using the Kaggle Telco Customer Churn dataset (7,043 customers, 21 features).  
 My main goal was not only to build a model with good statistical performance, but to make the output usable for real decision-making. In churn prediction, the “best” model depends on what the business values more: catching as many churners as possible, or avoiding unnecessary retention actions. That’s why I focused heavily on evaluation, probability thresholds, and cost-based optimisation.
 
+### Data Source
+https://www.kaggle.com/datasets/ramasub78/telco-customer-churn-prediction
 ---
 
 ## Dataset
